@@ -24,7 +24,7 @@ de modificador, sendo este identificado pelo compilador. <br/>
 nos métodos impede que seja sobrescrito na subclasse, <br /> 
 e nos valores de variáveis não pode ser alterado depois que já tenha sido atribuído um valor. <br/> 
 
-**abstract:** Não é aplicado nas variáveis, apenas nas classes. Uma classe abstrata não pode ser instanciada, 
+**abstract:** Não é aplicado nas variáveis, apenas nas classes. Uma classe abstrata não pode ser instanciada, <br/> 
 logo, não pode ser chamada pelos seus construtores. <br/> 
 
 **static:** É usado para a criação de uma variável que poderá ser acessada por todas as instâncias de objetos <br/> 
