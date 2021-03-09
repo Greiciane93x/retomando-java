@@ -28,18 +28,18 @@ a modificação ocorre no acesso direto à classe. Por isso, é necessário inst
 o método. <br/> 
 
 
-_Polimorfismo_
+_**Polimorfismo**_
  Os mesmos atributos e objetos podem ser utilizados em objetos distintos, mas com lógicas diferentes. 
  Técnica da qual escolhemos as funcionalidades utilizadas de forma dinâmica por um programa no decorrer 
  da sua execução.<br/> 
  
- _Herança_
+ _**Herança**_
 Quando criamos classes que herdam atributos e métodos de outras classes.<br/> 
  
- Palavra reservada para uso: <em>extends</em> 
+ Palavra reservada para uso: **extends**
  
- _Interface_ 
+ _**Interface**_ 
  É um contrato que quando assumido por uma classe, deve ser implementado. <br/> 
  
- Palavra reservada para uso: <em>implements</em> 
+ Palavra reservada para uso: **implements**
  
