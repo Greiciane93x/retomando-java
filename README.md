@@ -1,7 +1,7 @@
 
 # backup
 _____________________________________________________________________________
-
+<div style="text-align:center;"> 
 **Modificadores de acesso:**
 
 **public:** Uma declaração com modificador public pode ser <br/> 
@@ -31,6 +31,7 @@ logo, não pode ser chamada pelos seus construtores. <br/>
 dessa classe como uma variável comum, ou seja, a variável criada será a mesma em todas as instâncias, <br/> 
 a modificação ocorre no acesso direto à classe. Por isso, é necessário instanciar um objeto para acessar <br/> 
 o método. <br/> 
+</div> 
 
 
 **Polimorfismo** <br/> 
