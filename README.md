@@ -2,7 +2,7 @@
 # backup
 _____________________________________________________________________________
 
-_Modificadores de acesso:_
+**Modificadores de acesso:**
 
 **public:** Uma declaração com modificador public pode ser acessada de qualquer lugar e por qualquer entidade
 que possa visualizar a classe a que ela pertence. <br/> 
