@@ -1,7 +1,3 @@
-<img src="https://media2.giphy.com/media/ule4vhcY1xEKQ/source.gif" />
-
-
-______________________________________________________________________________________
 
 
 _Programação Orientada a Objetos:_ é um modelo de análise, projeto e programação de software 
