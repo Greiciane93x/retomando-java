@@ -1,7 +1,7 @@
 
 # backup
 _____________________________________________________________________________
-<div style="text-align:center;"> 
+<div style="text-align: center;"> 
 **Modificadores de acesso:**
 
 **public:** Uma declaração com modificador public pode ser <br/> 
