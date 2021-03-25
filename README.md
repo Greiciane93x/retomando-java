@@ -26,9 +26,9 @@ alteração cria um novo objeto String.
  
 Exemplos: <br/>  
 
->>String nome = "Alura"
->>String outra = new String("Alura"); 
->>String outra = nome.toUpperCase(); 
->>System.out.println(nome); 
->>System.out.println(outra); 
+>>String nome = "Alura" <br/> 
+>>String outra = new String("Alura"); <br/> 
+>>String outra = nome.toUpperCase(); <br/> 
+>>System.out.println(nome); <br/> 
+>>System.out.println(outra); <br/>  
 
