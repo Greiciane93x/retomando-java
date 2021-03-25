@@ -20,7 +20,7 @@ que é público.<br/>
 
 
 java.lang.String 
->> Todos os métodos funcionam nessa linha: devolvem uma nova String, respeitando o conceito <br/> 
->> de imutabilidade. 
+Todos os métodos funcionam nessa linha: devolvem uma nova String, respeitando o conceito <br/> 
+ de imutabilidade. 
 
  
