@@ -21,6 +21,7 @@ que é público.<br/>
 
 java.lang.String 
 Todos os métodos funcionam nessa linha: devolvem uma nova String, respeitando o conceito <br/> 
- de imutabilidade. 
-
+ de imutabilidade. Isso significa que, uma vez criado, não pode ser alterado, por isso qualquer <br/> 
+ alteração cria um novo objeto String. 
+ 
  
