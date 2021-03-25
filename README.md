@@ -16,4 +16,11 @@ Esse jar precisa estar no class path. Clicando com o botão direito dentro da pa
 a opção _add to build path_
 #Maven 
 O Maven organiza os JARs(código compilado, código fonte e documentação) em um repositório central<br/> 
-que é público. 
+que é público.<br/> 
+
+
+java.lang.String 
+>> Todos os métodos funcionam nessa linha: devolvem uma nova String, respeitando o conceito <br/> 
+>> de imutabilidade. 
+
+ 
