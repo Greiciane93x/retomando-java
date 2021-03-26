@@ -14,7 +14,7 @@ que seja mais fácil focar o novo projeto. <br/>
 
 Esse jar precisa estar no class path. Clicando com o botão direito dentro da pasta libs, escolha<br/> 
 a opção _add to build path_
-#Maven# 
+_Maven_ 
 O Maven organiza os JARs(código compilado, código fonte e documentação) em um repositório central<br/> 
 que é público.<br/> 
 
