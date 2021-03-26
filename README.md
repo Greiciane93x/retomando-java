@@ -4,7 +4,7 @@ Projetos utilizando conceitos de _herança_, _polimorfismo_, explorando conceito
 #JAR FILE(*J*ava *AR*chive)
 Através de jars podemos facilitar o compatilhamento do nosso código entre equipes. <br/> 
 A exportarmos um projeto, e selecionar a opção JAR FIle, desmarcamos os arquivos <br/> 
-.classpath e .project. <br/>. 
+.classpath e .project. <br/>
 É necessário que a opção **"Export generated class files and resources"** esteja marcada. <br/> 
 Em "Jar File", utilizando uma pasta de fácil acesso, no qual sertá gravado o arquivo jar que <br/> 
 será criado. <br/> 
