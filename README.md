@@ -9,10 +9,10 @@ A exportarmos um projeto, e selecionar a opção JAR FIle, desmarcamos os arquiv
 Em "Jar File", utilizando uma pasta de fácil acesso, no qual sertá gravado o arquivo jar que <br/> 
 será criado. <br/> 
 
-Para testar o arquivo jar recém criado, crie um novo projeto java, feche os demais projetos para<br/> 
+* Para testar o arquivo jar recém criado, crie um novo projeto java, feche os demais projetos para<br/> 
 que seja mais fácil focar o novo projeto. <br/> 
 
-Esse jar precisa estar no class path. Clicando com o botão direito dentro da pasta libs, escolha<br/> 
+* Esse jar precisa estar no class path. Clicando com o botão direito dentro da pasta libs, escolha<br/> 
 a opção _add to build path_
 
 # Maven <br/> 
@@ -34,7 +34,7 @@ Exemplos: <br/>
 >>System.out.println(outra); <br/>  
 
 # Cast <br/> 
-Transforma uma referência genérica em uma referência específica <br/> 
+* Transforma uma referência genérica em uma referência específica <br/> 
 
 _Cast explícito e implícito de primitivos_ <br/> 
 **Type Cast**  uma conversão de um tipo para outro. <br/> 
