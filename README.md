@@ -1,7 +1,7 @@
 
-Projetos utilizando conceitos de _herança_, _polimorfismo_, explorando conceitos de _protected_ interface e métodos abstratos. 
+# Projetos utilizando conceitos de _herança_, _polimorfismo_, explorando conceitos de _protected_ interface e métodos abstratos. 
 
-#JAR FILE(*J*ava *AR*chive)
+# JAR FILE(*J*ava *AR*chive) <br/> 
 Através de jars podemos facilitar o compatilhamento do nosso código entre equipes. <br/> 
 A exportarmos um projeto, e selecionar a opção JAR FIle, desmarcamos os arquivos <br/> 
 .classpath e .project. <br/>
@@ -14,7 +14,8 @@ que seja mais fácil focar o novo projeto. <br/>
 
 Esse jar precisa estar no class path. Clicando com o botão direito dentro da pasta libs, escolha<br/> 
 a opção _add to build path_
-_Maven_ 
+
+# Maven <br/> 
 O Maven organiza os JARs(código compilado, código fonte e documentação) em um repositório central<br/> 
 que é público.<br/> 
 
