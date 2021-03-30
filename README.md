@@ -57,3 +57,10 @@ __ClassCast Exception__
 * É do pacote java.lang <br/> 
 * É lançada quando o type Cast falha. 
 
+# Array do tipo Object <br/> 
+* Pode guardar qualquer tipo de referência <br/> 
+* Para converter uma referência genérica para uma mais específica usamos um type cast.  <br/> 
+* para receber valores ao chamar o programa Java na linha de comando, podemos usar o array String[] no método main <br/> 
+
+
+
