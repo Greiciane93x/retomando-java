@@ -32,3 +32,27 @@ Exemplos: <br/>
 >>System.out.println(nome); <br/> 
 >>System.out.println(outra); <br/>  
 
+# Cast <br/> 
+Transforma uma referência genérica em uma referência específica <br/> 
+
+_Cast explícito e implícito de primitivos_ <br/> 
+**Type Cast**  uma conversão de um tipo para outro. <br/> 
+
+**CAST IMPLÍCITO** <br/> 
+>>int numero = 3; <br/> 
+>>double valor = numero <br/> 
+
+**CAST EXPLÍCITO** <br/> 
+>>int numero = 3; <br/> 
+>>double valor = (double) numero; <br/> 
+
+_Cast implícito e explícito de referências_ <br/> 
+>> ContaCorrente cc1 = new ContaCorrente(22, 33); <br/> 
+>> Conta conta = cc1; <br/> 
+>> ContaCorrente cc1 = new ContaCorrente(22,33); <br/> 
+>> Conta conta = (Conta) cc1; <br/> 
+
+__ClassCast Exception__
+* É do pacote java.lang <br/> 
+* É lançada quando o type Cast falha. 
+
