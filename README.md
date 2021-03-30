@@ -20,7 +20,7 @@ O Maven organiza os JARs(código compilado, código fonte e documentação) em u
 que é público.<br/> 
 
 
-java.lang.String 
+# java.lang.String 
 Todos os métodos funcionam nessa linha: devolvem uma nova String, respeitando o conceito <br/> 
 de imutabilidade. Isso significa que, uma vez criado, não pode ser alterado, por isso qualquer <br/> 
 alteração cria um novo objeto String. 
