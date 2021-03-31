@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/images/711b087a4e9a8b88af705c36be42909d/tenor.gif" /> 
+<img src="https://media.tenor.com/images/711b087a4e9a8b88af705c36be42909d/tenor.gif" width="10px;"/> 
 
 
 # JAR FILE(*J*ava *AR*chive) <br/> 
