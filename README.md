@@ -1,3 +1,6 @@
+<img src="https://media.tenor.com/images/711b087a4e9a8b88af705c36be42909d/tenor.gif" /> 
+
+
 # JAR FILE(*J*ava *AR*chive) <br/> 
 * Através de jars podemos facilitar o compatilhamento do nosso código entre equipes. <br/> 
 * Ao exportarmos um projeto, e selecionar a opção JAR FIle, desmarcamos os arquivos .classpath e .project. <br/>
