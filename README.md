@@ -1,11 +1,7 @@
-
-__Projetos utilizando conceitos de _herança_, _polimorfismo_, explorando conceitos de _protected_ interface e métodos abstratos.__
-
 # JAR FILE(*J*ava *AR*chive) <br/> 
 * Através de jars podemos facilitar o compatilhamento do nosso código entre equipes. <br/> 
-A exportarmos um projeto, e selecionar a opção JAR FIle, desmarcamos os arquivos <br/> 
-.classpath e .project. <br/>
-* É necessário que a opção **"Export generated class files and resources"** esteja marcada. <br/> 
+* Ao exportarmos um projeto, e selecionar a opção JAR FIle, desmarcamos os arquivos .classpath e .project. <br/>
+* É necessário que a opção _"Export generated class files and resources"_ esteja marcada. <br/> 
 Em "Jar File", utilizando uma pasta de fácil acesso, no qual sertá gravado o arquivo jar que <br/> 
 será criado. <br/> 
 
@@ -16,14 +12,12 @@ que seja mais fácil focar o novo projeto. <br/>
 a opção _add to build path_
 
 # Maven <br/> 
-* O Maven organiza os JARs(código compilado, código fonte e documentação) em um repositório central<br/> 
-que é público.<br/> 
-
+* O Maven organiza os JARs(código compilado, código fonte e documentação) em um repositório central que é público.<br/> 
 
 # java.lang.String 
-* Todos os métodos funcionam nessa linha: devolvem uma nova String, respeitando o conceito <br/> 
-de imutabilidade. Isso significa que, uma vez criado, não pode ser alterado, por isso qualquer <br/> 
-alteração cria um novo objeto String. 
+* Todos os métodos funcionam nessa linha: devolvem uma nova String, respeitando o conceito de imutabilidade.<br/>
+Isso significa que, uma vez criado, não pode ser alterado, por isso qualquer <br/> 
+alteração cria um novo objeto String. <br/> 
  
 Exemplos: <br/>  
 
