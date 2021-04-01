@@ -92,4 +92,7 @@ __ClassCast Exception__
 * para receber valores ao chamar o programa Java na linha de comando, podemos usar o array String[] no método main <br/> 
 
 
+# Generics <br/> 
+Entraram na versão 1.5 da plataforma Java e foram levemente melhorados no Java 1.7 <br/> 
+
 
