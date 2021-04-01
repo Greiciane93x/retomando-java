@@ -94,5 +94,11 @@ __ClassCast Exception__
 
 # Generics <br/> 
 Entraram na versão 1.5 da plataforma Java e foram levemente melhorados no Java 1.7 <br/> 
-
+Seus principais benefícios são: <br/> 
+* O código mais legível, já que fica explícito o tipo dos elementos <br/> 
+* Evita casts excessivos <br/> 
+* Antecipa problemas de casts no momento da compilação <br/> 
+Ex: <br/> 
+>> ArrayList<String> lista = new ArrayList<>(); 
+>> lista.add("Ane"); 
 
