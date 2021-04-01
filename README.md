@@ -99,6 +99,14 @@ Seus principais benefícios são: <br/>
 * Evita casts excessivos <br/> 
 * Antecipa problemas de casts no momento da compilação <br/> 
 Ex: <br/> 
->> ArrayList<String> lista = new ArrayList<>(); 
->> lista.add("Ane"); 
+>> ArrayList<String> lista = new ArrayList<>(); <br/> 
+>> lista.add("Ane");  <br/> 
 
+**Lista com capacidade definida** <br/> 
+ Um arrayList é um array dinâmico, ou seja, por "baixo dos panos" <br/> 
+ é usado um array, mas sem se preocupar com as limitações <br/> 
+ de um array normal; <br/> 
+ Para criar uma lista com a quantidade de itens pré definidos, <br/> 
+ basta fazer como na linha abaixo: <br/> 
+ >> ArrayList lista = new ArrayList(*); <br/> 
+ Onde (*) é a capacidade desejada do array. 
