@@ -20,6 +20,16 @@ Java 8 de 2014 <br/>
 * Datetime API <br/> 
 * Streams API <br/> 
 
+# Vantagens 
+* Se conecta e integra com diversos sistemas e aplicações. <br/> 
+* Totalmente gratuita 
+* Por ser altamente integrada, permite diversos usos e complementações, o que garante alta performace <br/> 
+* Pode ser utilizada na criação de aplicativos diversos, como por exemplo, smartphone e tablet <br/> 
+* É excelente para sites que demandan alto índice de segurança e usabilidade
+
+# Desvantagens 
+* Carregamento é mais lento devido ao seu processamento numérico <br/> 
+* É mais demorada a produção de aplicações e sistemas em java 
 
 <img src="https://media.tenor.com/images/711b087a4e9a8b88af705c36be42909d/tenor.gif" width="10%"/> 
 
