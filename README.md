@@ -30,7 +30,7 @@ Java 8 de 2014 <br/>
 # Desvantagens 
 * Carregamento é mais lento devido ao seu processamento numérico <br/> 
 * É mais demorada a produção de aplicações e sistemas em java 
-<img src="https://static.wixstatic.com/media/463745_45dbc046204341feb1fde53fcbf99fa2~mv2.gif" width="10%" />  
+<img src="https://static.wixstatic.com/media/463745_45dbc046204341feb1fde53fcbf99fa2~mv2.gif" width="30%" />  
 
 
 # JAR FILE(*J*ava *AR*chive) <br/> 
