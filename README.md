@@ -1,3 +1,26 @@
+Java 5 (Tiger) de 2004 <br/> 
+- Trouxe grandes funcionalidades usadas até hoje na linguagem: <br/> 
+* Anotações <br/>  
+* Generics <br/> 
+* ForEach <br/> 
+* Autoboxing <br/> 
+* Melhorias para JVM, como 64 bits, multicore, e etc <br/> 
+
+Java 7 (Dolphin) <br/> 
+* try with resources <br/> 
+* Fork join e nova biblioteca de concorrência <br/> 
+* E para JVM o G1, o garbage collector padrão <br/> 
+
+Java 8 de 2014 <br/> 
+* Lambda Expressions <br/> 
+* Functional Interfaces <br/> 
+* Method references <br/> 
+* Default methods <br/> 
+* Optionals <br/> 
+* Datetime API <br/> 
+* Streams API <br/> 
+
+
 <img src="https://media.tenor.com/images/711b087a4e9a8b88af705c36be42909d/tenor.gif" width="10%"/> 
 
 
