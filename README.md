@@ -48,7 +48,7 @@ o seu código e para a JVM  executar o seu programa<br/>
 * Contém uma JVM, os pacote básicos do Java(API core), exemplo disso é o pacote lang, citado logo abaixo. <br/> 
 <hr> 
 <img src="https://dicasdejava.com.br/images/jdk_jre_jvm.png" width="40%" /> 
-
+<hr> 
 # JAR FILE(*J*ava *AR*chive) <br/> 
 * Através de jars podemos facilitar o compatilhamento do nosso código entre equipes. <br/> 
 * Ao exportarmos um projeto, e selecionar a opção JAR FIle, desmarcamos os arquivos .classpath e .project. <br/>
