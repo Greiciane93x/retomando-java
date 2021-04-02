@@ -33,7 +33,10 @@ Trouxe grandes funcionalidades usadas até hoje na linguagem: <br/>
 <img src="https://static.wixstatic.com/media/463745_45dbc046204341feb1fde53fcbf99fa2~mv2.gif" width="30%" />  
 
 # JDK <br/> 
-É o kit de desenvolvimento Java responsável por compilar código-fonte(.java) em bytecode(.class) <br/> 
+* É o kit de desenvolvimento Java responsável por compilar código-fonte(.java) em bytecode(.class) <br/> 
+* Disponibiliza as ferramentas para o desenvolvimento dos programas java. <br/> 
+* Contém um compilador, depurador e o próprio JRE para a execução dos programas. <br/> 
+
 # JVM <br/> 
 * É a máquina virtual do java responsável por executar o bytecode <br/> 
 * É responsável por fornecer a capacidade de multi-plataforma <br/> 
