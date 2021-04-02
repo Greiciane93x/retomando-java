@@ -46,7 +46,8 @@ Trouxe grandes funcionalidades usadas até hoje na linguagem: <br/>
 o seu código e para a JVM  executar o seu programa<br/> 
 * Disponibiliza os requisitos mínimos para a execução de um programa java. <br/> 
 * Contém uma JVM, os pacote básicos do Java(API core), exemplo disso é o pacote lang, citado logo abaixo. <br/> 
-<img src="https://dicasdejava.com.br/images/jdk_jre_jvm.png" width="30%" /> 
+<hr> 
+<img src="https://dicasdejava.com.br/images/jdk_jre_jvm.png" width="40%" /> 
 
 # JAR FILE(*J*ava *AR*chive) <br/> 
 * Através de jars podemos facilitar o compatilhamento do nosso código entre equipes. <br/> 
