@@ -32,7 +32,15 @@ Trouxe grandes funcionalidades usadas até hoje na linguagem: <br/>
 * É mais demorada a produção de aplicações e sistemas em java 
 <img src="https://static.wixstatic.com/media/463745_45dbc046204341feb1fde53fcbf99fa2~mv2.gif" width="30%" />  
 
-
+# JDK <br/> 
+É o kit de desenvolvimento Java responsável por compilar código-fonte(.java) em bytecode(.class) <br/> 
+# JVM <br/> 
+* É a máquina virtual do java responsável por executar o bytecode <br/> 
+* É responsável por fornecer a capacidade de multi-plataforma <br/> 
+* É capaz de interpretar e executar o programa compilado em formato bytecode em qualquer SO(windows, linux, mac, etc).<br/> 
+# JRE <br/> 
+É o ambiente de execução do Java que fornece as bibliotecas padrões do Java para o JDK compilar <br/> 
+o seu código e para a JVM  executar o seu programa<br/> 
 # JAR FILE(*J*ava *AR*chive) <br/> 
 * Através de jars podemos facilitar o compatilhamento do nosso código entre equipes. <br/> 
 * Ao exportarmos um projeto, e selecionar a opção JAR FIle, desmarcamos os arquivos .classpath e .project. <br/>
