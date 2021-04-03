@@ -70,6 +70,12 @@ a opção _add to build path_
 Isso significa que, uma vez criado, não pode ser alterado, por isso qualquer <br/> 
 alteração cria um novo objeto String. <br/> 
  
+>> public class OlaMundo{ <br/> 
+>> public static void main(String[] args){<br/> 
+>> System.out.println("Olá mundo em Java"); <br/> 
+>>   }<br/> 
+>> } <br/> 
+ 
 Exemplos: <br/>  
 
 >>String nome = "Alura" <br/> 
