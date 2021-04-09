@@ -49,7 +49,7 @@ o seu código e para a JVM  executar o seu programa<br/>
 <hr> 
 <img src="https://dicasdejava.com.br/images/jdk_jre_jvm.png" width="40%" /> 
 <hr> 
-# JAR FILE(_J_ava _AR_chive) <br/> 
+# JAR FILE(Java ARchive) <br/> 
 * Através de jars podemos facilitar o compatilhamento do nosso código entre equipes. <br/> 
 * Ao exportarmos um projeto, e selecionar a opção JAR FIle, desmarcamos os arquivos .classpath e .project. <br/>
 * É necessário que a opção _"Export generated class files and resources"_ esteja marcada. <br/> 
