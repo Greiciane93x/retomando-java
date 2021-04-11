@@ -132,3 +132,46 @@ Ex: <br/>
  basta fazer como na linha abaixo: <br/> 
  >> ArrayList lista = new ArrayList(*); <br/> 
  Onde (*) é a capacidade desejada do array. 
+ 
+ 
+ <hr> 
+ 
+>> ArrayList<Conta> lista = new ArrayList<Conta>(); <br/> 
+
+>> Conta cc = new ContaCorrente(22,11); <br/> 
+>> lista.add(cc); <br/> 
+
+>> Conta cc2 = new ContaCorrente(22,22); <br/> 
+>> lista.add(cc2); <br/> 
+
+// outra referência <br/> 
+>> Conta cc3 = new ContaCorrente(22, 22); <br/> 
+
+// devolve true ou false <br/> 
+>> boolean existe = lista.contains(cc3); <br/> 
+
+>> System.out.println("Já existe?" + existe); <br/> 
+
+>> for(Conta conta : lista){ <br/> 
+	 // == sempre compara as referências 	<br/> 
+	>> //if(conta == cc2){
+	>> //	System.out.println("Já tenho outra conta!"); <br/> 
+	>> //}	<br/> 
+
+	>> if(conta.ehIgual(cc3)){ <br/> 
+	>>  		System.out.println("Já tenho essa conta!"); 	<br/> 
+	>>}<br/> 
+>>} <br/> 
+
+
+
+>> public boolean ehIgual(Conta outra){<br/> 
+>> if(this.agencia != outra.agencia){<br/> 
+>>	return false; 	<br/> 
+>>	}<br/> 
+>>	if(this.numero != outra.numero){ <br/> 
+>>	return false; 	<br/> 
+>>}<br/> 
+>>return true; <br/> 
+>> } <br/> 
+
