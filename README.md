@@ -174,4 +174,37 @@ Ex: <br/>
 >>}<br/> 
 >>return true; <br/> 
 >> } <br/> 
+>> 
+
+
+>> public static void main(String[] args){ <br/> 
+	
+	>> Conta cc1 = new ContaCorrente(22, 11); <br/>  
+	>> Conta cc2 = new ContaCorrente(22, 22); <br/> 
+
+	>> boolean igual = cc1.ehIgual(cc2); <br/> 
+	>> System.out.println(igual); <br/> 
+
+>> } <br/> 
+
+
+>> @Override <br/> 
+>> public boolean equals(Object ref){<br/> 
+//cast de um referencia mais genérica para um mais específica <br/> 
+>> 	Conta outra = (Conta) ref; <br/> 
+
+	>> if(this.agencia != outra.agencia){<br/> 
+	>>	return false; <br/> 
+	>>} <br/> 
+	
+	>> if(this.numero != outra.numero){ <br/> 
+	>>	return false; <br/> 
+	>> } <br/> 
+	>> return true;  <br/> 
+>> } <br/> 
+
+# Equals <br/> 
+* Devemos sobrescrever para definir o critério de igualdade  <br/> 
+* A implementação padrão compara as referências <br/> 
+* É definido na classe Object <br/> 
 
