@@ -153,17 +153,14 @@ Ex: <br/>
 >> System.out.println("Já existe?" + existe); <br/> 
 
 >> for(Conta conta : lista){ <br/> 
-	 // == sempre compara as referências 	<br/> 
-	>> //if(conta == cc2){
-	>> //	System.out.println("Já tenho outra conta!"); <br/> 
-	>> //}	<br/> 
-
-	>> if(conta.ehIgual(cc3)){ <br/> 
-	>>  		System.out.println("Já tenho essa conta!"); 	<br/> 
-	>>}<br/> 
+ // == sempre compara as referências 	<br/> 
+>> //if(conta == cc2){
+>> //	System.out.println("Já tenho outra conta!"); <br/> 
+>> //}	<br/> 
+>> if(conta.ehIgual(cc3)){ <br/> 
+>>  		System.out.println("Já tenho essa conta!"); 	<br/> 
+>>}<br/> 
 >>} <br/> 
-
-
 
 >> public boolean ehIgual(Conta outra){<br/> 
 >> if(this.agencia != outra.agencia){<br/> 
@@ -179,11 +176,10 @@ Ex: <br/>
 
 >> public static void main(String[] args){ <br/> 
 	
-	>> Conta cc1 = new ContaCorrente(22, 11); <br/>  
-	>> Conta cc2 = new ContaCorrente(22, 22); <br/> 
-
-	>> boolean igual = cc1.ehIgual(cc2); <br/> 
-	>> System.out.println(igual); <br/> 
+>> Conta cc1 = new ContaCorrente(22, 11); <br/>  
+>> Conta cc2 = new ContaCorrente(22, 22); <br/> 
+>> boolean igual = cc1.ehIgual(cc2); <br/> 
+>> System.out.println(igual); <br/> 
 
 >> } <br/> 
 
@@ -193,14 +189,14 @@ Ex: <br/>
 //cast de um referencia mais genérica para um mais específica <br/> 
 >> 	Conta outra = (Conta) ref; <br/> 
 
-	>> if(this.agencia != outra.agencia){<br/> 
-	>>	return false; <br/> 
-	>>} <br/> 
+>> if(this.agencia != outra.agencia){<br/> 
+>>	return false; <br/> 
+>>} <br/> 
 	
-	>> if(this.numero != outra.numero){ <br/> 
-	>>	return false; <br/> 
-	>> } <br/> 
-	>> return true;  <br/> 
+>> if(this.numero != outra.numero){ <br/> 
+>>	return false; <br/> 
+>> } <br/> 
+>> return true;  <br/> 
 >> } <br/> 
 
 # Equals <br/> 
