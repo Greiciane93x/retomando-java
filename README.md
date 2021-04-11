@@ -208,3 +208,10 @@ Ex: <br/>
 * A implementação padrão compara as referências <br/> 
 * É definido na classe Object <br/> 
 
+# ArrayList <br /> 
+* Acesso fácil e performático pelo índice <br/> 
+* elementos precisam ser copiados quando não há mais capacidade <br/> 
+
+# LinkedList <br/> 
+* Inserção e remoção performática em qualquer posição, também no início <br/> 
+* Acesso mais demorado pelo índice, é preciso pesquisar os elementos
