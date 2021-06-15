@@ -43,6 +43,8 @@ public class AlteraEmpresaServlet extends HttpServlet {
 		
 		response.sendRedirect("listaEmpresas"); 
 		
+		//teste alterações
+		
 	}
 
 }
